@@ -8,3 +8,5 @@ Ele foi feito para ser utilizado em conjunto com o wireshark para mapear os ende
 <br>
 
 Basicamente, ele só precisa do driver do google chrome e de um arquivo .pcap gerado pelo wireshark, para processar dados de data e hora.
+
+* OBS: para fins de privacidade, o nome do site e o tipo de conversa utilizada foram removidos do código
