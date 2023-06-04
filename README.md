@@ -4,7 +4,7 @@ Para fins acadêmicos
 
 O pig hunter é um código simples para identificar certos tipos de pessoas indesejáveis em um determinado site web.
 <br>
-Ele foi feito para ser utilizado em conjunto com o wireshark para mapear os endereços ips e horas de acessos dessas pessoas.
+Ele foi feito para ser utilizado em conjunto com o wireshark para mapear os endereços ips e horas de acessos dessas pessoas, ou seja, é um gerador de dados intencionados para o wireshark processar.
 <br>
 
 Basicamente, ele só precisa do driver do google chrome e de um arquivo .pcap gerado pelo wireshark, para processar dados de data e hora.
